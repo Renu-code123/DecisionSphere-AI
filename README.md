@@ -165,3 +165,7 @@ cd backend
 pytest tests/
 ```
 The suite evaluates REST endpoint schemas, agent state mutation loops, sanitization filters, and MCP tool functions.
+
+---
+
+This is a capstone project for **Kaggle AI Agents: Intensive Vibe Coding Capstone Project**, developed as part of the **5-Day AI Agents Intensive Course with Google**.
