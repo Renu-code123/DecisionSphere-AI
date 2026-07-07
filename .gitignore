@@ -1,0 +1,37 @@
+# === Python Backend ===
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.db
+backend/app/ml/weights/
+
+# === Environment Variables / Secrets ===
+backend/.env
+
+# === Generated Reports & Uploaded Files ===
+backend/app/static/reports/DecisionSphere_Report_*.csv
+backend/app/static/reports/DecisionSphere_Report_*.txt
+backend/app/static/uploads/
+
+# === Frontend React ===
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# === IDE & OS specific files ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# === Capstone Presentation Deliverables ===
+# (Excluded as requested)
+DEMO_SCRIPT.md
+KAGGLE_WRITEUP.md
