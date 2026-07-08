@@ -8,7 +8,7 @@
 
 ![DecisionSphere AI Dashboard](assets/landing_page.png)
 
-DecisionSphere AI is an enterprise-grade, portfolio-ready decision support platform designed to help municipal authorities, citizens, emergency response teams, and NGOs coordinate and make data-driven safety decisions. The platform leverages a collaborative Multi-Agent graph workflow (using Gemini 2.5), 7 machine learning models, and an integrated Model Context Protocol (MCP) server.
+DecisionSphere AI is an enterprise-grade, portfolio-ready decision support platform designed to help municipal authorities, citizens, emergency response teams, and NGOs coordinate and make data-driven safety decisions. The platform leverages a collaborative Multi-Agent graph workflow (using Gemini 2.5), 7 machine learning models, 
 
 ---
 
