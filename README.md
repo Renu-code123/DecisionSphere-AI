@@ -113,12 +113,6 @@ decisionsphere-ai/
 
 ---
 
-## 🚀 Installation & Local Running
-
-### Prerequisites
-* Python 3.11 or later
-* Node.js v20 or later
-* Gemini API Key (optional, falls back to a sandbox mockup mode if not set)
 
 ### Backend Setup
 1. Open a terminal in the `backend/` directory.
