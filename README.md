@@ -55,7 +55,7 @@ graph TD
     Collect -->|JSON-RPC| MCPServer[🔌 MCP Server stdio]
     
     classDef agent fill:#0284c7,stroke:#38bdf8,stroke-width:2px,color:#fff;
-    class Coord, Planner, Memory, Collect, Predict, Analyst, Recomm,Visual,Report,Alert agent;
+    class Coord, Planner, Memory, Collect, Predict, Analyst, Recomm, Visual, Report, Alert agent;
 ```
 
 ---
